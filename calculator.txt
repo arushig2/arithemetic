@@ -1,0 +1,4 @@
+class calucaltor{
+public static void main(string args){
+}
+}
